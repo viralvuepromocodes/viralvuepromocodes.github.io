@@ -4,7 +4,7 @@ Promo code: SOFIA10
 Stated discount: 10%
 
 GITHUB PAGES:
-1. For a root URL, create repository YOUR-GITHUB-USERNAME.github.io.
+1. For a root URL, create repository viralvuepromocodes.github.io.
 2. Upload index.html directly to the repository root.
 3. Commit to main.
 4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
